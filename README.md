@@ -1,5 +1,4 @@
-# Welcome to my profile!
-My name is Joseph Schultz. I've been a developer for 7 years building custom websites with Wordpress. 
+# Hi! I'm Joseph,
+a front-end developer and designer passionate about learning, creating and self-reflection. I'm smart enough to know I don't know it all, yet crazy enough to believe I can learn anything.
 
-## What I code with
-Since I work primarily with Wordpress, I'm most proficient with HTML, CSS, PHP, and Javascript. 
+I'm confident calling myself a developer, designer, and an artist. Professionally, my focus is front-end software development. With 7+ years designing and developing websites, I'm comfortable carrying a project from start to finish, but I believe the best work is produced by a collaborative team.
