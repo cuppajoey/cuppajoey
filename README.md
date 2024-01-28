@@ -1,4 +1,4 @@
 # Hi! I'm Joseph,
-a front-end developer and designer passionate about learning, creating and self-reflection. I'm smart enough to know I don't know it all, yet crazy enough to believe I can learn anything.
+a front-end engineer and designer dedicated to continuous learning, creative exploration and self-refinement. I'm smart enough to admit I don't know everything, but I believe in my ability to learn anything.
 
-I'm confident calling myself a developer, designer, and an artist. Professionally, my focus is front-end software development. With 8+ years designing and developing websites, I'm comfortable carrying a project from start to finish, but I believe the best work is produced by a collaborative team.
+Professionally, I am an adept developer, with 10 years of experience designing and developing for the front end. While I thrive independently, and am comfortable leading a project from start to finish, I firmly believe the best work is produced through collaborative teamwork.
